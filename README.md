@@ -81,6 +81,6 @@ and policy interpretation.
 ## Files in This Repository
 - `IPEDS_Audit_Notebook.ipynb` — Full Python/Google Colab notebook with code, 
 visualizations, and scoring
-- `IPEDS_Python_Presentation.pptx` — Python audit findings presentation
+- `IPEDS_Data_Quality_Python_Presentation.pptx` — Python audit findings presentation
 - `IPEDS_Comparison_Presentation.pptx` — AI vs. Python comparative analysis
-- `IPEDS_Claude_Report.pdf` — Full AI-generated audit report
+- `IPEDS_Claude_AI_Audit_Report.pdf` — Full AI-generated audit report
